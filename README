@@ -1,3 +1,6 @@
+Frontal face dataset 
+by: http://www.vision.caltech.edu/html-files/archive.html
+------------
 Frontal face dataset. Collected by Markus Weber at
 California Institute of Technology.
 
@@ -16,4 +19,17 @@ the bike within the image, in the form:
 ------------
 
 R. Fergus 15/02/03
+
+------------
+Face-detection and depth effect
+Code written by: Jui-Wen, Yeh, for robotic vision final 
+report. 
+
+Using Viola-Jones method and Kanade-Lucas-Tomasi method 
+for characteristic point detection, drawing a circle with 
+Gaussian blur to do the effect
+
+------------
+Jui-Wen, Yeh 15/06/19
+
 
